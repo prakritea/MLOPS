@@ -1,0 +1,16 @@
+2025-07-29 00:44:58,146 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'load_data' is not defined
+2025-07-29 00:52:53,514 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-07-29 00:52:53,528 - data_ingestion - DEBUG - Data Preprocessing completed
+2025-07-29 00:52:53,544 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'e' is not defined
+2025-07-29 00:58:07,019 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-07-29 00:58:07,032 - data_ingestion - DEBUG - Data Preprocessing completed
+2025-07-29 00:58:07,144 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-07-29 23:26:00,819 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-07-29 23:26:00,835 - data_ingestion - DEBUG - Data Preprocessing completed
+2025-07-29 23:26:00,886 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-07-29 23:29:02,344 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-29 23:29:02,345 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-29 23:30:09,760 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-29 23:30:09,761 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-29 23:34:29,500 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-29 23:34:29,501 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
